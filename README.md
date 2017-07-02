@@ -1,30 +1,51 @@
 # Arabic-Real
 
-# developers المطورين
-
-@Omar_Real
-
-@Mohammedzedan 
-
-@ALNAZEXR
-
-@X_A_A
+# dev المطور
+@dev_XxMTxX
 
 
 # التنصيب
 
-```sh
-# Install dependencies.
-# Tested on Ubuntu 14.04. For other OSs, check out https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+```لتنصيب سورس Real النسخة الثانية بل عربي يعتبر من افضل السورسات بي هواي ملفات مرتب 🍁😚
+يرجى اتباع ما يلي 
 
-# Let's install the bot.
-cd $HOME
+خلي الكود هہ⇓ّٰـذا بلترمنال ودوس انتر
+
+sudo apt-get update
+
+وافتح ترمنل لاخ حط بي ذني الكودات 
+
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+➖➖➖➖➖➖➖➖➖
+
 git clone https://github.com/Arabic-Bot/Real-Arab.git -b supergroups
-cd TeleSeed
+
+➖➖➖➖➖➖➖➖➖
+وراهة هہّٰ⇓ـاي وهم دوس انتر 
+cd Real-Arab
+
+➖➖➖➖➖➖➖➖➖
+وراهة هہّٰ⇓ـاي وهم دوس انتر 
+
 chmod +x launch.sh
+➖➖➖➖➖➖➖➖➖
+وراهة هہّٰ⇓ـاي وهم دوس انتر 
+
 ./launch.sh install
-./launch.sh # Enter a phone number & confirmation code.
+➖➖➖➖➖➖➖➖➖
+وراهة هہّٰ⇓ـاي وهم دوس انتر 
+
+./launch.sh
+
+ملاحظة انتطر لحد ميكمل ويطلب رقم تلفون
+➖➖➖➖➖➖➖➖➖
+
+#ملاحضة اكو ملف اسمة omarreal
+هاذ ورة ما تكتبون الرقم لازم تفتحو 
+واكو ملف اسمة شرح 😚🍁 اقرو 
+وحلو الاخطاء مال config :(
+#تنصيب موفق للجميع 😚👍
+@DEV_BOOS
 ```
 ### One command
  على السيرفر VPS
