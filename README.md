@@ -18,11 +18,11 @@ sudo apt-get update
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 ➖➖➖➖➖➖➖➖➖
 
-git clone  -b supergroups
+git clone https://github.com/XxMTxX10/dev.git -b supergroups
 
 ➖➖➖➖➖➖➖➖➖
 وراهة هہّٰ⇓ـاي وهم دوس انتر 
-cd Real-Arab
+cd dev
 
 ➖➖➖➖➖➖➖➖➖
 وراهة هہّٰ⇓ـاي وهم دوس انتر 
